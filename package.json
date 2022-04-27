@@ -1,0 +1,19 @@
+{
+  "name": "ai-crypto-trading-midterm",
+  "version": "1.0.0",
+  "description": "midterm",
+  "main": "index.js",
+  "repository": "https://github.com/ChanHoLee275/ai-crypto-trading-midterm",
+  "author": "ChanHo Lee",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "node-fetch": "^3.2.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.14.0",
+    "prettier": "2.6.2"
+  }
+}
